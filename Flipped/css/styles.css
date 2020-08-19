@@ -1,0 +1,140 @@
+#title{
+  background-color: #FE3C72;
+  color: #fff;
+}
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+
+}
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 3.5rem;
+line-height: 1.5;
+}
+h3{
+  font-family: 'Montserrat',sans-serif;
+}
+p{
+font-family: 'PT Serif', serif;
+color: #8f8f8f;
+}
+.icon{
+  color: #ef8172;
+  padding-bottom: 1rem;
+}
+.icon:hover{
+  color: #FE3C72;
+}
+
+.container-fluid{
+  padding: 3% 15% 6%;
+}
+body{
+font-family: 'Montserrat',sans-serif;
+}
+h2{
+font-family: 'Dancing Script', cursive;
+}
+/*navigationbar*/
+.navbar{
+  padding:0 0 5rem;
+}
+.navbar-brand{
+  font-family: 'Dancing script',cursive;
+  font-weight: bold;
+  font-size: 2.5rem;
+}
+
+.fb{
+  text-align: center;
+  padding: 5%;
+}
+.nav-item {
+  padding: 0 18px;;
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.d-b{
+  margin:5% 3% 5% 0;
+
+}
+.d-p{
+transform: rotate(15deg);
+position: absolute;
+padding-bottom: 5%;
+}
+@media (max-width:1028px) {
+  #title{
+    text-align: center;
+  }
+.d-p{
+  transform: rotate(0);
+  position: static;
+}
+}
+#testimonials{
+
+  text-align: center;
+  background-color:  #ef8172;
+  color:#fff;
+}
+.testimonial-i{
+  width: 20%;
+  margin: 25px;
+}
+.testimonial-i-2{
+  width: 20%;
+  margin: 25px;
+  border-radius: 100%;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+#press{
+  background-color:  #ef8172;
+  text-align: center;
+  padding-bottom: 4%;
+}
+.planing{
+  padding: 3% 2%;
+  text-align: center;;
+}
+.pricing-col{
+  padding: 3% 2%;
+}
+.logo{
+  margin:20px 20px 50px;
+  width: 15%;
+}
+#pricing{
+  padding: 100px;
+
+}
+.plan{
+  font-family: 'Spectral SC', serif;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+#cta{
+  text-align: center;
+    background-color: #FE3C72;
+     padding: 8% 15% 10%;
+}
+.heading{
+  font-family: 'PT Serif', serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.d-button{
+
+}
+
+#social{
+  text-align: center;
+}
